@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<filters>
+		<filter>
+			<id>#119892</id>
+			<datas>(3)</datas>
+			<name>已处理[未关闭]</name>
+		</filter>
+		<filter>
+			<id>#119893</id>
+			<datas>(1)</datas>
+			<name>已处理[己关闭]</name>
+		</filter>
+		<filter>
+			<id>#119891</id>
+			<datas>(4)</datas>
+			<name>待跟踪</name>
+		</filter>
+		<filter>
+			<id>#119695</id>
+			<datas>(0)</datas>
+			<name>待处理</name>
+		</filter>
+	</filters>
+</root>
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<filters>
+	<filter id="119891" oldAccount="2" newAccount="2" totalAccount="4"
+		maxAccount="4">
+		<oldTasks>145,146</oldTasks>
+	</filter>
+	<filter id="119893" oldAccount="1" newAccount="0" totalAccount="1"
+		maxAccount="1">
+		<oldTasks>143</oldTasks>
+	</filter>
+	<filter id="119892" oldAccount="0" newAccount="3" totalAccount="3"
+		maxAccount="3">
+		<oldTasks></oldTasks>
+	</filter>
+	<filter id="119695" oldAccount="0" newAccount="0" totalAccount="0"
+		maxAccount="0">
+		<oldTasks></oldTasks>
+	</filter>
+</filters>
